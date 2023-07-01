@@ -1,0 +1,15 @@
+.amplify-authenticator {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  & .auth-container {
+    min-width: none;
+  }
+}
+
+.login-modal-wrapper {
+  position: relative;
+  height: 768px;
+  overflow: hidden;
+}

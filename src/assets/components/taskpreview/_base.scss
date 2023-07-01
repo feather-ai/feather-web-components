@@ -1,0 +1,5 @@
+.model-switcher-tab {
+  @include media-breakpoint-up(xl) {
+    width: 76%;
+  }
+}

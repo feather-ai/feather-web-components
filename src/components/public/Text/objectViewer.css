@@ -1,0 +1,23 @@
+.pre {
+  outline: 1px solid #ccc;
+  padding: 5px;
+  margin: 5px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: rgb(240, 242, 244);
+}
+.string {
+  color: #007777;
+}
+.number {
+  color: #de36de;
+}
+.boolean {
+  color: blue;
+}
+.null {
+  color: magenta;
+}
+.key {
+  font-weight: bold;
+  color: #cc0000;
+}
